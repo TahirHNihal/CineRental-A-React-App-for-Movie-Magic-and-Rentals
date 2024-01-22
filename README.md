@@ -1,5 +1,5 @@
 ```markdown
-# Smart Grade Showcase
+# CineRental A React App for Movie Magic and Rentals
 
 This project was bootstrapped with Vite React and tailwind CSS.
 
@@ -15,7 +15,7 @@ Before you start, make sure you have Node.js and npm installed on your machine.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/TahirHNihal/Book-Finder-App.git
+git clone https://github.com/TahirHNihal/CineRental-A-React-App-for-Movie-Magic-and-Rentals.git
 ```
 
 2. Navigate to the project directory:
