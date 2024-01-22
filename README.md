@@ -21,7 +21,7 @@ git clone https://github.com/TahirHNihal/CineRental-A-React-App-for-Movie-Magic-
 2. Navigate to the project directory:
 
 ```bash
-cd assignment-2-book-finder-app-TahirHNihal
+cd CineRental-A-React-App-for-Movie-Magic-and-Rentals
 ```
 
 3. Install dependencies:
